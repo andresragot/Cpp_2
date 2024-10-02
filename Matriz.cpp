@@ -2,7 +2,8 @@
 #include <iostream>
 using namespace std;
 
-Matriz::Matriz(){
+Matriz::Matriz()
+{
 	cout << "Para crear una matriz dame su ancho es metros" << endl;
 	string _x;
 	cin >> _x;
